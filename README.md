@@ -189,26 +189,6 @@ Coursework so far:
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ibtashamulislam-droid&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibtashamulislam-droid&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
