@@ -119,6 +119,19 @@ This project taught me how to take a program from an idea to a working applicati
 
 ---
 
+## Hackathons & Challenges
+
+<div align="center">
+
+| Platform | Focus | Profile |
+|:--|:--|:--|
+| HackerRank | Python and C practice | [ibtashamulislam](https://www.hackerrank.com/profile/ibtashamulislam) |
+| More coming | Hackathons, coding contests, open source events | Updated as I go |
+
+</div>
+
+---
+
 ## Education
 
 **B.Tech, Computer Science & Engineering** &nbsp;|&nbsp; *Currently in 2nd Semester*
