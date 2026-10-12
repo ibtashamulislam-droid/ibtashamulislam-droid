@@ -8,9 +8,7 @@
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer_Science_%26_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117)
-![Semester](https://img.shields.io/badge/Semester-2nd-6366F1?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Location-YOUR_CITY,_COUNTRY-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![Degree](https://img.shields.io/badge/Undergrad-Computer_Science_%26_Engineering-7C3AED?style=for-the-badge&labelColor=0d1117)
 
 <br/>
 
@@ -31,7 +29,7 @@
 
 ## About Me
 
-I'm a second-semester Computer Science & Engineering undergraduate. I'm at the start of my journey, and I'm building my foundations properly: **Python**, **C**, problem solving, and the math and circuits behind computing.
+I'm an undergraduate student in Computer Science & Engineering. I'm at the start of my journey, and I'm building my foundations properly: **Python**, **C**, problem solving, and the math and circuits behind computing.
 
 - I learn by building small, working projects and pushing them to GitHub
 - I'm a beginner in Python and C, and I'm working through a structured roadmap using free resources
@@ -134,7 +132,7 @@ This project taught me how to take a program from an idea to a working applicati
 
 ## Education
 
-**B.Tech, Computer Science & Engineering** &nbsp;|&nbsp; *Currently in 2nd Semester*
+**Undergraduate, Computer Science & Engineering**
 
 Coursework so far:
 
